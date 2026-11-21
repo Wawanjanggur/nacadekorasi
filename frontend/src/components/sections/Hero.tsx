@@ -21,7 +21,7 @@ export function Hero() {
         alt="Panggung pelaminan pernikahan dengan tirai elegan, pilar putih, dan rangkaian bunga segar"
         priority
         sizes="100vw"
-        focus="center 48%"
+        focus="center 55%"
       />
     </section>
   );

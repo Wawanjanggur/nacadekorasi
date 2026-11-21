@@ -62,6 +62,7 @@ export function SmartImageFill({
       src={imageSrc(image)}
       alt={alt}
       fill
+      quality={95}
       sizes={sizes}
       priority={priority}
       placeholder="blur"

@@ -6,7 +6,8 @@ const nextConfig: NextConfig = {
   images: {
     // Semua foto lokal; format modern dipilih otomatis oleh optimizer.
     formats: ["image/avif", "image/webp"],
-    deviceSizes: [360, 420, 640, 768, 1024, 1280, 1600],
+    qualities: [75, 95],
+    deviceSizes: [360, 420, 640, 768, 1024, 1280, 1600, 1920],
     imageSizes: [96, 160, 240, 320, 420, 560],
     minimumCacheTTL: 60 * 60 * 24 * 30,
   },

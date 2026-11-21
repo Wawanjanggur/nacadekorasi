@@ -71,7 +71,7 @@ export function SiteFooter() {
           </div>
 
           <div className="lg:col-span-3">
-            <h3 className="label text-teal">Ikuti</h3>
+            <h3 className="label text-teal">Media Sosial</h3>
             <div className="mt-3.5 flex flex-col gap-2.5">
               {site.socials.map((s) => (
                 <a

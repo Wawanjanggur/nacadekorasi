@@ -93,10 +93,6 @@ export function SiteFooter() {
                 </a>
               ))}
             </div>
-            <p className="mt-4 text-[0.75rem] leading-relaxed text-teal-ink/75">
-              Pasang ukuran terakhir disarankan H-7. Untuk luar kota, konsultasi minimal 2 bulan
-              sebelum acara.
-            </p>
           </div>
         </div>
 

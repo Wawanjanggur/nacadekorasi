@@ -396,7 +396,7 @@ export const decor: DecorItem[] = [
     price: "Rp 7.000.000",
     detail:
       "Panggung pelaminan dengan pilar artistik, sofa putih, karpet jalan merah, dan lorong kaca reflektif yang menyala saat prosesi.",
-    specs: ["Panggung 10 meter", "Lorong kaca", "Karpet jalan"],
+    specs: ["Panggung 8 meter", "Lorong kaca", "Karpet jalan"],
   },
   {
     id: "d10",

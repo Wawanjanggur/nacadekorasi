@@ -1,0 +1,60 @@
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.cache
+.env.local
+.env.local.*
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies
+node_modules/
+vendor/
+vendor.backup/
+composer.lock
+
+# Build Output
+.next/
+out/
+dist/
+build/
+
+# Database
+database/database.sqlite
+database/database.sqlite-shm
+database/database.sqlite-wal
+
+# Storage
+backend/storage/framework/cache/
+backend/storage/framework/data/
+backend/storage/framework/sessions/
+backend/storage/framework/views/
+backend/storage/logs/
+backend/storage/app/public/
+
+# Environment Sensitive Files
+backend/.env
+frontend/.env.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Docker
+docker-data/
+
+# Temporary Files
+*.temp
+*.bak
+*.pid
+
+# Misc
+coverage/
+.nyc_output/
+.eslintcache
